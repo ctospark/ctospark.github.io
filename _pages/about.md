@@ -15,7 +15,7 @@ I bridge the gap between engineering innovation and clinical commercialization.
 Experience
 ======
 * Lead Engineer / Researcher (2021-present)
-  * Institution: Institution: Full-cycle Medical Device Research Center, ICMIT,\
+  * Institution: Institution: Institute of Convergence Medicine with Innovative Technology,\
                  Seoul National University Hospital
   * Focus: Medical Device Development & Regulatory Strategy
   * Key Responsibilities: Leading prototyping projects and designing regulatory pathways\
