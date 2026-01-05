@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Specializing in Medical Device Development & Regulatory Strategy.  
+Specializing in Medical Device Development & Regulatory Strategy.\  
 I bridge the gap between engineering innovation and clinical commercialization. 
 
 
 Experience
 ======
 * Lead Engineer / Researcher (2021-present)
-  * Institution: Institution: Full-cycle Medical Device Research Center, ICMIT,
-    Seoul National University Hospital
+  * Institution: Institution: Full-cycle Medical Device Research Center, ICMIT,\Seoul National University Hospital
   * Focus: Medical Device Development & Regulatory Strategy
   * Key Responsibilities: Leading prototyping projects and designing regulatory pathways for innovative medical technologies
     
