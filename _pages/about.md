@@ -44,5 +44,5 @@ Education
 
 Skills
 ======
-* Engineering: Mechanical Design, PCB Design, Embedded Software (C++, Python)
-* Regulatory & Strategy: Medical Device Regulatory Affairs (RA), Full-cycle Productization Strategy, ISO 13485 compliance
+* Engineering: Mechanical Design, Structural Analysis (Ansys Mechanical), PCB Design, and Embedded Software
+* Regulatory & Strategy: Expertise in Medical Device RA, GMP Certification, ISO 13485 Compliance, and Full-cycle Productization Strategy
