@@ -15,7 +15,7 @@ I bridge the gap between engineering innovation and clinical commercialization.
 Experience
 ======
 * Lead Engineer / Researcher (2021-present)
-  * Institution: Institution: Institute of Convergence Medicine with Innovative Technology,\
+  * Institution: Institute of Convergence Medicine with Innovative Technology,\
                  Seoul National University Hospital
   * Focus: Medical Device Development & Regulatory Strategy
   * Key Responsibilities: Leading prototyping projects and designing regulatory pathways\
@@ -27,18 +27,18 @@ Experience
 
 Education
 ======
-* Ph.D. in Bioengineering, Seoul National University, South Korea, 2026
+* Ph.D. in Bioengineering, Seoul National University, South Korea
   * Research Areas: Rehabilitation Robots, Wearable Devices, and Biomechanics
   * Dissertation: Development and Validation of Portable and Wearable Dynamometry\
                   Systems for Quantitative Assessment of Knee Muscle Strength
   * Advisor: Sungwan Kim, Ph.D.
 
-* M.S. in Bioengineering, Seoul National University, South Korea, 2015
+* M.S. in Bioengineering, Seoul National University, South Korea
   * Dissertation: A Research on the Development of Laser Treatment Robot System using\
                   Multi-sensor based Pose Estimation
   * Advisor: Sungwan Kim, Ph.D.
 
-* B.S. in Biomedical Engineering, Yonsei University, South Korea, 2012
+* B.S. in Biomedical Engineering, Yonsei University, South Korea
 
 
 
