@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Bioengineering, Seoul National University, South Korea, 2025 (expected)
-* M.S. in Bioengineering, Seoul National University, South Korea, 2015
-* B.S. in Biomedical Engineering, Yonsei University, 2012
+* Ph.D. in Bioengineering, Seoul National University, South Korea
+* M.S. in Bioengineering, Seoul National University, South Korea
+* B.S. in Biomedical Engineering, Yonsei University
 
 Work experience
 ======
