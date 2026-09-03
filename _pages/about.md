@@ -14,6 +14,9 @@ I bridge the gap between engineering innovation and clinical commercialization.
 
 Experience
 ======
+* Adjunct Associate Professor (2026-present)
+  * Institution: Department of Medical Device Development,\
+                 Seoul National University College of Medicine 
 * Lead Engineer / Researcher (2021-present)
   * Institution: Institute of Convergence Medicine with Innovative Technology,\
                  Seoul National University Hospital
