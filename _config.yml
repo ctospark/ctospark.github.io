@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Sungwoo Park"
+locale                   : "ko-KR"
+title                    : "Sungwoo Park (박성우)"
 title_separator          : "-"
 name                     : &name "Sungwoo Park"
-description              : &description "personal description"
-url                      : https://ctospark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "박성우(Sungwoo Park)의 개인 웹사이트입니다. 서울대학교병원 융합의학기술원 연구 및 서울대학교 겸임교수 포트폴리오입니다."
+url                      : "https://ctospark.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ctospark/ctospark.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "sungwoo_4.jpg"
-  name             : "Sungwoo Park"
+  name             : "Sungwoo Park (박성우)"
   pronouns         : # example: "she/her"  
   bio              : "Researcher, Adjunct Professor"
   location         : "Seoul, South Korea"
@@ -36,16 +36,16 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-0027-5085"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ctospark"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")   
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -281,7 +281,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul # Updated from America/Los_Angeles
 
 
 # Plugins
