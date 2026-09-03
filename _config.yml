@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "ko-KR"
-title                    : "Sungwoo Park (박성우)"
+title                    : "Sungwoo Park | 박성우"
 title_separator          : "-"
 name                     : &name "Sungwoo Park"
-description              : &description "박성우(Sungwoo Park)의 웹사이트입니다. 서울대학교병원 융합의학기술원 연구자 및 서울대학교 의과대학 의료기기산업학과 겸임부교수 포트폴리오"
+description              : &description "박성우 | Sungwoo Park | 서울대학교병원 융합의학기술원 | 서울대학교 의과대학 의료기기산업학과 겸임부교수"
 url                      : "https://ctospark.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ctospark/ctospark.github.io"
@@ -22,7 +22,7 @@ repository               : "ctospark/ctospark.github.io"
 author:
   # Biographic information
   avatar           : "sungwoo_4.jpg"
-  name             : "Sungwoo Park (박성우)"
+  name             : "Sungwoo Park | 박성우"
   pronouns         : # example: "she/her"  
   bio              : "Researcher, Adjunct Professor"
   location         : "Seoul, South Korea"
