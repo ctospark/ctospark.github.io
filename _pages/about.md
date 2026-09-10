@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Specializing in Medical Device Development & Regulatory Strategy.\
-I bridge the gap between engineering innovation and clinical commercialization. 
+Medical device engineer and researcher at Seoul National University Hospital.\
+I take clinical needs from prototype through regulatory approval to commercialization.
 
 
 Experience
@@ -17,14 +17,14 @@ Experience
 * Adjunct Associate Professor (2026-present)
   * Institution: Department of Medical Device Development,\
                  Seoul National University College of Medicine 
-* Lead Engineer / Researcher (2021-present)
+* Researcher (2021-present)
   * Institution: Institute of Convergence Medicine with Innovative Technology,\
                  Seoul National University Hospital
   * Focus: Medical Device Development & Regulatory Strategy
   * Key Responsibilities: Leading prototyping projects and designing regulatory pathways\
                           for innovative medical technologies
     
-* Research and Development Engineer (2016-2021)
+* Researcher (2016-2021)
   * Institution: Department of Biomedical Engineering, Seoul National University Hospital
 
 
